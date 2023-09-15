@@ -10,6 +10,10 @@ from termcolor import colored, cprint
 from IPython.display import display,HTML
 import warnings
 warnings.filterwarnings('ignore')
+import os
+#export OPENAI_API_KEY='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'
+
+
 
 #Running as a script
 #import models

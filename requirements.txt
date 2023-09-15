@@ -1,0 +1,13 @@
+pandas
+termcolor
+ipython
+openai
+tiktoken
+pinecone-client
+sentence-transformers
+newspaper3k
+jupyterlab
+
+
+
+
